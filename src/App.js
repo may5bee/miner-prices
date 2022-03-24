@@ -12,7 +12,13 @@ TagManager.initialize(tagManagerArgs)
 
 function App() {
   window.dataLayer.push({
-    event: 'pageview'
+    event: 'event',
+    eventProps: {
+      category: category,
+      action: action,
+      label: label,
+      value: value
+    }
   });
   return (
     <div className="App">
