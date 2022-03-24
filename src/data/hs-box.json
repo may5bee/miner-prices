@@ -1,27 +1,27 @@
 [
         {
-                "price": "$819.00", 
-                "link": "https://www.goldshell.com/product/goldshell-hs-box/?src=776", 
-                "seller": "Goldshell"
-        }, 
+                "seller": "Goldshell",
+                "link": "https://www.goldshell.com/product/goldshell-hs-box/?src=776",
+                "price": "$819.00"
+        },
         {
-                "price": "$1,198.96", 
-                "link": "https://casaminers.com/products/asic-miner-goldshell-hs-box-235-gh-s?ref=TTdMmJZNqvqtBI", 
-                "seller": "Casa Miners"
-        }, 
+                "seller": "Casa Miners",
+                "link": "https://casaminers.com/products/asic-miner-goldshell-hs-box-235-gh-s?ref=TTdMmJZNqvqtBI",
+                "price": "$1,195.76"
+        },
         {
-                "price": "$1,431.27", 
-                "link": "https://www.safetyminer.net/product-page/goldshell-hs-box?ref=3yrntphlqn", 
-                "seller": "Safety Miner"
-        }, 
+                "seller": "Safety Miner",
+                "link": "https://www.safetyminer.net/product-page/goldshell-hs-box?ref=3yrntphlqn",
+                "price": "$1,427.44"
+        },
         {
-                "price": "$1,399.99", 
-                "link": "https://bitcoinmerch.com/products/goldshell-hs-box-470ghs-handshake-miner?aff=2&_pos=1&_fid=d1f149e11&_ss=c", 
-                "seller": "Bitcoin Merch"
-        }, 
+                "seller": "Bitcoin Merch",
+                "link": "https://bitcoinmerch.com/products/goldshell-hs-box-470ghs-handshake-miner?aff=2&_pos=1&_fid=d1f149e11&_ss=c",
+                "price": "$1,399.99"
+        },
         {
-                "price": "$1,459.00", 
-                "link": "https://www.5111.store/product/goldshell-hs-box/?wpam_id=1", 
-                "seller": "Mining Store 5111"
+                "seller": "Mining Store 5111",
+                "link": "https://www.5111.store/product/goldshell-hs-box/?wpam_id=1",
+                "price": "$1,459.00"
         }
 ]

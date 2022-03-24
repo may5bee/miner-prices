@@ -1,42 +1,42 @@
 [
         {
-                "price": "$699.00", 
-                "link": "https://www.goldshell.com/product/goldshell-ck-box/?src=776", 
-                "seller": "Goldshell"
-        }, 
+                "seller": "Goldshell",
+                "link": "https://www.goldshell.com/product/goldshell-ck-box/?src=776",
+                "price": "$699.00"
+        },
         {
-                "price": "$999.99", 
-                "link": "https://bitcoinmerch.com/products/goldshell-ck-box-1-05th-s-nervos-ckb-miner?aff=2", 
-                "seller": "Bitcoin Merch"
-        }, 
+                "seller": "Bitcoin Merch",
+                "link": "https://bitcoinmerch.com/products/goldshell-ck-box-1-05th-s-nervos-ckb-miner?aff=2",
+                "price": "$999.99"
+        },
         {
-                "price": "$1,198.83", 
-                "link": "https://casaminers.com/products/asic-miner-goldshell-ck-box-1-05-th-s?ref=TTdMmJZNqvqtBI", 
-                "seller": "Casa Miners"
-        }, 
+                "seller": "Casa Miners",
+                "link": "https://casaminers.com/products/asic-miner-goldshell-ck-box-1-05-th-s?ref=TTdMmJZNqvqtBI",
+                "price": "$1,195.53"
+        },
         {
-                "price": "$1,218.00", 
-                "link": "https://www.viperatech.com/product/goldshell-ck-box/?ref=585", 
-                "seller": "ViperaTech"
-        }, 
+                "seller": "ViperaTech",
+                "link": "https://www.viperatech.com/product/goldshell-ck-box/?ref=585",
+                "price": "$1,218.00"
+        },
         {
-                "price": "$1,431.11", 
-                "link": "https://www.safetyminer.net/product-page/goldshell-ck-box?ref=3yrntphlqn", 
-                "seller": "Safety Miner"
-        }, 
+                "seller": "Safety Miner",
+                "link": "https://www.safetyminer.net/product-page/goldshell-ck-box?ref=3yrntphlqn",
+                "price": "$1,427.17"
+        },
         {
-                "price": "$1,540.00", 
-                "link": "https://asicmarketplace.com/product/goldshell-ck-box-ckb-miner-1-05th/?wpam_id=4", 
-                "seller": "AsicMarketPlace"
-        }, 
+                "seller": "AsicMarketPlace",
+                "link": "https://asicmarketplace.com/product/goldshell-ck-box-ckb-miner-1-05th/?wpam_id=4",
+                "price": "$1,540.00"
+        },
         {
-                "price": "$1,590.00", 
-                "link": "https://asicminermarket.com/product/goldshell-ck-box-nervos/?affiliates=a87ff679a2f3e71d9181a67b7542122c", 
-                "seller": "AsicMinerMarket"
-        }, 
+                "seller": "AsicMinerMarket",
+                "link": "https://asicminermarket.com/product/goldshell-ck-box-nervos/?affiliates=a87ff679a2f3e71d9181a67b7542122c",
+                "price": "$1,590.00"
+        },
         {
-                "price": "$2,587.01", 
-                "link": "https://www.millionminer.com/goldshell-ck-box-1-05th-s-new.html?1000", 
-                "seller": "MillionMiner"
+                "seller": "MillionMiner",
+                "link": "https://www.millionminer.com/goldshell-ck-box-1-05th-s-new.html?1000",
+                "price": "$2,579.88"
         }
 ]
