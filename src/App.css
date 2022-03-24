@@ -38,17 +38,24 @@
 }
 
 .container {
-  display: flex;
+  
+padding: 50px;
 }
-
 .tableTitle {
-  background-color: #e6e6ff;
+  background-color: #ffe6e6;
 
 }
 
-.minerbros {
-  background-color: #e6e6ff;
+.outOfStock {
+  background-color: #ffcccc;
+  opacity: 35%;
+}
 
+.coloredBlock {
+  background-color: #ffcccc;
+  opacity: 45%;
+  width: 30px;
+  display: inline-block;
 }
 
 td, th {
@@ -64,7 +71,10 @@ td, th {
 .text-right {
   text-align: right;
 }
-
+.titleBlock {
+  text-align: left;
+  margin-bottom: 2rem;
+}
 table {
   margin-left: 0.5rem;
   margin-right: 0.5rem;
