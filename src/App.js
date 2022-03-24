@@ -2,8 +2,13 @@ import logo from './logo.svg';
 import './App.css';
 import CreateTable from './AntTable'
 import minerData from './data/minerData.json'
+import TagManager from 'react-gtm-module'
 
 function App() {
+  const tagManagerArgs = {
+  gtmId: 'GTM-PQ8S3H7'
+}
+TagManager.initialize(tagManagerArgs)
   return (
 
     <div className="App">
