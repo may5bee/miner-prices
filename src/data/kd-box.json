@@ -27,17 +27,12 @@
         {
                 "seller": "Casa Miners",
                 "link": "https://casaminers.com/products/asic-miner-goldshell-kd-box-1-6-th-s?ref=TTdMmJZNqvqtBI",
-                "price": "$5,159.66"
+                "price": "$5,182.29"
         },
         {
                 "seller": "AsicMarketPlace",
                 "link": "https://asicmarketplace.com/product/goldshell-kd-box-kadena-miner-1-6-th-s/?wpam_id=4",
                 "price": "$4,760.00"
-        },
-        {
-                "seller": "Safety Miner",
-                "link": "https://www.safetyminer.net/product-page/goldshell-kd-box?ref=3yrntphlqn",
-                "price": "$5,226.64"
         },
         {
                 "seller": "Miner Bros",
@@ -47,12 +42,17 @@
         {
                 "seller": "CoinMining Central",
                 "link": "https://coinminingcentral.com/products/goldshell-kda-box-kadena-home-miner-1600-gh-s?rfsn=1704384.5cfb1b&_pos=1&_sid=e25a67d65&_ss=r",
-                "price": "$6,599.99"
+                "price": "$6,604.99"
         },
         {
                 "seller": "MillionMiner",
                 "link": "https://www.millionminer.com/Goldshell-KD-BOX-KDA-BOX--Kadena-Miner.html?1000",
-                "price": "$5,599.97"
+                "price": "$5,624.53"
+        },
+        {
+                "seller": "Safety Miner",
+                "link": "https://www.safetyminer.net/product-page/goldshell-kd-box?ref=3yrntphlqn",
+                "price": "$5,734.81"
         },
         {
                 "seller": "ViperaTech",

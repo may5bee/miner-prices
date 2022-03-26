@@ -2,24 +2,18 @@ import logo from './logo.svg';
 import './App.css';
 import CreateTable from './AntTable'
 import minerData from './data/minerData.json'
-import TagManager from 'react-gtm-module'
 
-const tagManagerArgs = {
-  gtmId: 'GTM-PQ8S3H7'
-}
-
-TagManager.initialize(tagManagerArgs)
 
 function App() {
-  window.dataLayer.push({
-    event: 'event',
-    eventProps: {
-      category: category,
-      action: action,
-      label: label,
-      value: value
-    }
-  });
+  // window.dataLayer.push({
+  //   event: 'event',
+  //   eventProps: {
+  //     category: category,
+  //     action: action,
+  //     label: label,
+  //     value: value
+  //   }
+  // });
   return (
     <div className="App">
       <div className="container">

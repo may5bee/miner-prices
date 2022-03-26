@@ -5,9 +5,9 @@ import { Table, Tag, Space } from 'antd';
 
 function CreateTable({data}){
 
-  data.forEach((miner) => {
-    console.log(miner);
-  });
+  // data.forEach((miner) => {
+  //   console.log(miner);
+  // });
 
 
 const columns = [
@@ -18,12 +18,12 @@ const columns = [
         sorter: (a, b) => a.minerName.localeCompare(b.minerName)
       },
       {
-        title: 'BT-Miners',
-        dataIndex: 'BT-Miners',
+        title: 'Bitcoin Merch',
+        dataIndex: 'Bitcoin Merch',
         defaultSortOrder: 'ascend',
         render: obj => {
           return(
-          <a className={obj.inStock == false ? "outOfStock" : ""} href={obj.listingLink}>{obj.price}</a>
+          <a className={`purchaselink ${obj.inStock === false ? "outOfStock" : ""}`} href={obj.listingLink}>{obj.price}</a>
           )
         },
       
@@ -35,7 +35,7 @@ const columns = [
         defaultSortOrder: 'ascend',
         render: obj => {
           return(
-          <a className={obj.inStock == false ? "outOfStock" : ""} href={obj.listingLink}>{obj.price}</a>
+          <a className={`purchaselink ${obj.inStock === false ? "outOfStock" : ""}`} href={obj.listingLink}>{obj.price}</a>
           )
         },
       },
@@ -45,7 +45,7 @@ const columns = [
         defaultSortOrder: 'ascend',
         render: obj => {
           return(
-          <a className={obj.inStock == false ? "outOfStock" : ""} href={obj.listingLink}>{obj.price}</a>
+          <a className={`purchaselink ${obj.inStock === false ? "outOfStock" : ""}`} href={obj.listingLink}>{obj.price}</a>
           )
         },
       },
@@ -55,7 +55,7 @@ const columns = [
         defaultSortOrder: 'ascend',
         render: obj => {
           return(
-          <a className={obj.inStock == false ? "outOfStock" : ""} href={obj.listingLink}>{obj.price}</a>
+          <a className={`purchaselink ${obj.inStock === false ? "outOfStock" : ""}`} href={obj.listingLink}>{obj.price}</a>
           )
         },
       },
@@ -65,7 +65,7 @@ const columns = [
         defaultSortOrder: 'ascend',
         render: obj => {
           return(
-          <a className={obj.inStock == false ? "outOfStock" : ""} href={obj.listingLink}>{obj.price}</a>
+          <a className={`purchaselink ${obj.inStock === false ? "outOfStock" : ""}`} href={obj.listingLink}>{obj.price}</a>
           )
         },
       },
@@ -75,7 +75,7 @@ const columns = [
         defaultSortOrder: 'ascend',
         render: obj => {
           return(
-          <a className={obj.inStock == false ? "outOfStock" : ""} href={obj.listingLink}>{obj.price}</a>
+          <a className={`purchaselink ${obj.inStock === false ? "outOfStock" : ""}`} href={obj.listingLink}>{obj.price}</a>
           )
         },
       },

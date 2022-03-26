@@ -4,6 +4,15 @@ import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 
+import TagManager from 'react-gtm-module'
+
+const tagManagerArgs = {
+  gtmId: 'GTM-PQ8S3H7'
+}
+
+TagManager.initialize(tagManagerArgs)
+
+
 ReactDOM.render(
   <React.StrictMode>
     <App />
