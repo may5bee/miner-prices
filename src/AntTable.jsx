@@ -23,7 +23,7 @@ const columns = [
         defaultSortOrder: 'ascend',
         render: obj => {
           return(
-          <a className={`purchaselink ${obj.inStock === false ? "outOfStock" : ""}`} href={obj.listingLink}>{obj.price}</a>
+          <a className={`purchaselink ${obj.inStock === false ? "outOfStock" : ""}`} target="_blank" href={obj.listingLink}>{obj.price}</a>
           )
         },
       
@@ -35,7 +35,7 @@ const columns = [
         defaultSortOrder: 'ascend',
         render: obj => {
           return(
-          <a className={`purchaselink ${obj.inStock === false ? "outOfStock" : ""}`} href={obj.listingLink}>{obj.price}</a>
+          <a className={`purchaselink ${obj.inStock === false ? "outOfStock" : ""}`} target="_blank" href={obj.listingLink}>{obj.price}</a>
           )
         },
       },
@@ -45,7 +45,7 @@ const columns = [
         defaultSortOrder: 'ascend',
         render: obj => {
           return(
-          <a className={`purchaselink ${obj.inStock === false ? "outOfStock" : ""}`} href={obj.listingLink}>{obj.price}</a>
+          <a className={`purchaselink ${obj.inStock === false ? "outOfStock" : ""}`} target="_blank" href={obj.listingLink}>{obj.price}</a>
           )
         },
       },
@@ -55,7 +55,7 @@ const columns = [
         defaultSortOrder: 'ascend',
         render: obj => {
           return(
-          <a className={`purchaselink ${obj.inStock === false ? "outOfStock" : ""}`} href={obj.listingLink}>{obj.price}</a>
+          <a className={`purchaselink ${obj.inStock === false ? "outOfStock" : ""}`} target="_blank" href={obj.listingLink}>{obj.price}</a>
           )
         },
       },
@@ -65,7 +65,7 @@ const columns = [
         defaultSortOrder: 'ascend',
         render: obj => {
           return(
-          <a className={`purchaselink ${obj.inStock === false ? "outOfStock" : ""}`} href={obj.listingLink}>{obj.price}</a>
+          <a className={`purchaselink ${obj.inStock === false ? "outOfStock" : ""}`} target="_blank" href={obj.listingLink}>{obj.price}</a>
           )
         },
       },
@@ -75,7 +75,7 @@ const columns = [
         defaultSortOrder: 'ascend',
         render: obj => {
           return(
-          <a className={`purchaselink ${obj.inStock === false ? "outOfStock" : ""}`} href={obj.listingLink}>{obj.price}</a>
+          <a className={`purchaselink ${obj.inStock === false ? "outOfStock" : ""}`} target="_blank" href={obj.listingLink}>{obj.price}</a>
           )
         },
       },
